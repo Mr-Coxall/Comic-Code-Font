@@ -1,6 +1,5 @@
 @font-face {
     font-family: "Comic Code";
-    src: url(./ComicCode.otf) format("otf");
-    font-style: normal;
-    font-weight: normal;
+    src: local("Comic Code"),
+        url(./ComicCode.otf) format("otf");
 }

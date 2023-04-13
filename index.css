@@ -1,5 +1,5 @@
 @font-face {
-    font-family: "Comic Code";
-    src: local("Comic Code"),
-        url(./ComicCode.ttf) format("ttf");
-}
+    font-family: Comic Code;
+    font-weight: normal;
+    src: url(./ComicCode.ttf);
+  }
